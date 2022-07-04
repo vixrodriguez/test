@@ -3,3 +3,5 @@ sqlalchemy
 click
 Flask-SQLAlchemy
 boto3
+Jinja2
+pyjwt

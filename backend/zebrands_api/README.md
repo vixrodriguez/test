@@ -2,11 +2,13 @@
 
 ### Technologies
 - Docker Compose
-- PostgreSQL
+- PostgreSQL 
 - Python 3.8
-- Flask
-- SQLAlchemy
+- Flask (v 2.1.2)
+- SQLAlchemy 
 - API REST
 - Amazon SES
+- Jinja2 (v 2.11.13)
+- JWT 
 
 ### Running
