@@ -4,4 +4,5 @@ click
 Flask-SQLAlchemy
 boto3
 Jinja2
-pyjwt
+pyjwt==2.4.0
+Flask-JWT==0.3.2

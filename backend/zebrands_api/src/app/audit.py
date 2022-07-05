@@ -1,7 +1,6 @@
 from . import app
 from .db import Audit
 from flask import jsonify
-from flask import request
 
 
 @app.route('/logs', methods=['GET'])
